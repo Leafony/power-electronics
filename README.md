@@ -4,4 +4,4 @@
 ## List of Leaves: 
 ### High-side IGBT driver: USB leaf, Isolator leaf(original), Digital gate-drive & analog frontend leaf(original)
 ### Low-side IGBT driver: STM32 MCU leaf, USB leaf, 29-pin leaf, Digital gate-drive & analog frontend leaf(original)
-#### M. Nomura, T. Mori, T. Sakurai, 17p-A301-18, JSAP Spring Meeting 2023.
+#### Reference: M. Nomura, T. Mori, T. Sakurai, "A Method for Deriving Thermal Time Constants of Power Devices by Observing Gate Voltages", 17p-A301-18, JSAP Spring Meeting 2023.
