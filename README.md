@@ -1,1 +1,1 @@
-# Intelligent Digital Gate Platform
+# Sample Program for Intelligent Digital Gate Platform
